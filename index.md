@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: '这里是ccy的个人博客'
+landing-title: 'ccy的个人博客'
 description: null
 image: null
 author: null
