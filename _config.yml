@@ -1,8 +1,8 @@
 # Site settings
-title: 个人博客
-subtitle: by HTML5 UP
-email: youremailaddress@gmail.com
-description: A responsive site template designed by HTML5 Up<br /> and released under the Creative Commons.
+title: Blog
+subtitle: by CCY
+email: 285715942@qq.com
+description: 此博客用于记录实习经历、掌握的技能知识、学习过程中的笔记和心得等
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "" # the base hostname & protocol for your site
 author:
